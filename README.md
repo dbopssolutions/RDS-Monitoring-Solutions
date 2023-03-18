@@ -15,3 +15,12 @@ Six different types of database engines are currently available in RDS:
 4. Microsoft SQL server
 5. Oracle
 6. Postgres SQL
+
+
+In this article, we will discuss various methods of monitoring RDS in AWS with native functionality such as:
+
+1. RDS Service Monitoring
+2. RDS Enchanced Monitoring
+3. Audit logging
+4. AWS Cloudwatch Alarms
+5. AWS Cloudwatch Events & Notifications
