@@ -9,9 +9,9 @@ Amazon Relational Database Service (Amazon RDS) is a web service that makes it e
 
 Six different types of database engines are currently available in RDS: 
 
-Amazon Aurora
-MySQL
-MariaDB
-Microsoft SQL Server
-Oracle
-PostgreSQL
+1. Amazon Aurora
+2. SQL
+3. Maria DB
+4. Microsoft SQL server
+5. Oracle
+6. Postgres SQL
